@@ -1,4 +1,4 @@
-# GESTION DOCUMENTAL SI2
+# PROYECTO SOFTWARE 1 - PROBADOR DE ROPA
 Laravel
 
 # Instalacion del proyecto
@@ -22,12 +22,12 @@ Laravel
 Bajar cambios primero (para que tus cambios se mantenga sigue estos paso)
 
 -   git add .
--   git commit -m "soy yo otraves"
+-   git commit -m "nuevo cambio"
 -   git pull origin main
 
 Subir sus cambios al proyecto(para subir tus cambios sigue estos pasos)
 
 -   git add .
--   git commit -m "soy yo"
+-   git commit -m "user"
 -   git push origin main
 
