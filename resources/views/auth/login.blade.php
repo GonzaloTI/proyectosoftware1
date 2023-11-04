@@ -8,7 +8,7 @@
 
   <img class="img-fluid px-3 px-sm-4 mt-3 mb-4" style="width: 90rem;"
   src="   {{asset('welcome.jpeg')}}" alt="...">
-<h1 class="text-3xl text-center font-bold">Gestion Documental</h1>
+<h1 class="text-3xl text-center font-bold">E-commerce - probador de ropa</h1>
 
 
 <form class="mt-4" method="POST" action="">
